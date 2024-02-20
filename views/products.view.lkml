@@ -26,7 +26,7 @@ view: products {
     type: string
     link: {
       label: "Product Links"
-      url: "https://www.google.com/search?sca_esv=297f8d6bee6ef7a9&rlz=1CAZVTZ_enIN1094&q=dresses&tbm=isch&source=lnms&sa=X&ved=2ahUKEwim9ICi7bmEAxUod2wGHRaECSEQ0pQJegQIDhAB&biw=1397&bih=616&dpr=1.38"
+      url: "https://www.google.com/webhp"
     }
     sql: ${TABLE}.category ;;
   }
